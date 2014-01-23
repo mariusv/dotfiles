@@ -1,5 +1,0 @@
-ST_AUTH=https://lon.auth.api.rackspacecloud.com/v1.0
-ST_USER=mariusv
-ST_KEY=e7ecba5d75268450bc056ab6a64a1b1a
-ST_SORAGE_URL=https://snet-storage101.lon3.clouddrive.com/v1/MossoCloudFS_a3bb7e83-92a4-49b9-a3b4-28b3fd826fed
-export ST_AUTH ST_USER ST_KEY ST_STORAGE_URL

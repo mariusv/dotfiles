@@ -1,5 +1,0 @@
-ST_AUTH=https://auth.api.rackspacecloud.com/v1.0
-#ST_AUTH=https://identity.api.rackspacecloud.com/v2.0
-ST_USER=rackspacetfjk34
-ST_KEY=8557f11211fa065e4ab5321bb4d93b1f
-export ST_AUTH ST_USER ST_KEY 

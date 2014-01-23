@@ -1,7 +1,0 @@
-[inova-login]
-#username = USE_KEYRING['rackSSO']
-ports_to_try = 314,22
-auto_accept_host_fingerprint = true
-auto_sudo_su = False
-ssh_timeout = 30
-prompt = [\A|`who | wc -l`] ${debian_chroot:+($debian_chroot)}\u@`hostname | sed 's/.ohthree.com//'`:\w\$

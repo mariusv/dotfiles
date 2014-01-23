@@ -1,3 +1,0 @@
-# word jump on SHIFT left/right arrows
-#"\e[1;2D": backward-word
-#"\e[1;2C": forward-word
