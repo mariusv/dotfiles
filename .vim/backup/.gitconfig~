@@ -1,0 +1,9 @@
+[user]
+	name = Marius Voila
+	email = myself@mariusv.com
+[push]
+	default = matching
+[core]
+	excludesfile = /Users/marius/.gitignore_global
+[color]
+	ui = auto

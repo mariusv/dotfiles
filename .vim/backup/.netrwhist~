@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/mari5424/chef_recepies/cookbooks/phpapp'
+let g:netrw_dirhist_2='/Users/mari5424/chef_recepies/cookbooks/phpapp/resources'
+let g:netrw_dirhist_3='/Users/mari5424/chef_recepies/cookbooks/phpapp'
+let g:netrw_dirhist_4='/Users/mari5424/chef_recepies/cookbooks'
+let g:netrw_dirhist_5='/Users/mari5424/chef_recepies/cookbooks/apt'
+let g:netrw_dirhist_6='/Users/mari5424/vagrantrs/rackspace-uk/puppet/modules/wordpress'
+let g:netrw_dirhist_7='/Users/mari5424/vagrantrs/rackspace-uk/puppet/modules/wordpress/manifests'
+let g:netrw_dirhist_8='/Users/mari5424/vagrantrs/rackspace-uk/puppet/modules/wordpress'
+let g:netrw_dirhist_9='/Users/mari5424/vagrantrs/rackspace-uk/puppet/modules/wordpress/manifests'
