@@ -16,5 +16,6 @@ echo 'Running pip update...'
 pip install --upgrade distribute
 pip install --upgrade pip
 
+echo 'Running gem update system...'
 # Upgrade Ruby Packages
 gem update --system
